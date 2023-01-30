@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jose Bautista
-#### I am Software Developer junior Front-end 
+
 [I am Software Developer junior Front-end ](https://www.linkedin.com/in/jose-bautista-sft/)
 
 Software development student, I am looking for the opportunity to gain experience in a work environment according to my studies, front-end developer, I have basic knowledge of JavaScript, HTML and CSS.
